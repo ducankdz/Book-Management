@@ -406,7 +406,7 @@ public class QLSView extends JFrame {
 		btnHuy.setBounds(633, 27, 125, 37);
 		contentPane.add(btnHuy);
 		
-		ImageIcon imgIcon = new ImageIcon("D:\\Java Swing\\QLS3\\images\\profile1.png");
+		ImageIcon imgIcon = new ImageIcon("images\\profile1.png");
 		
 		separator_2 = new JSeparator();
 		separator_2.setForeground(new Color(0, 0, 0));
