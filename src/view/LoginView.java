@@ -101,7 +101,7 @@ public class LoginView extends JFrame {
 		btnSignUp.setFont(new Font("Tahoma", Font.PLAIN, 20));
 		btnSignUp.setBounds(41, 377, 167, 54);
 		contentPane.add(btnSignUp);
-		ImageIcon img = new ImageIcon("D:\\Java Swing\\QLS3\\images\\book3.png");
+		ImageIcon img = new ImageIcon("images\\book3.png");
 		JLabel labelImg = new JLabel("",img,JLabel.CENTER);
 		
 		labelImg.setBounds(141, 0, 150, 150);
